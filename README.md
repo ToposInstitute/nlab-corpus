@@ -7,4 +7,6 @@ The cleaning process simply strips out any non-textual elements (such as bullet 
 - `nlab_plain.json` has the same content as the plaintext file, but is organised into key-value pairs, with the key being the title of the page, and the value being its contents.
 - `nlab_stats.json` contains some basic statistics about the corpus, generating by [spaCy](https://spacy.io).
 
+A work-in-progress ontology of categorical concepts, extracted using [a root- and rule-based method](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=919688), can be explored at [http://18.222.108.184:8080/](http://18.222.108.184:8080/).
+
 For licencing information, see the [nLab licence](https://ncatlab.org/nlab/show/HomePage#TermsOfUse).
